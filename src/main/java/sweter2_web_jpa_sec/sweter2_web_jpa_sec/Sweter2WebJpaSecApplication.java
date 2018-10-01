@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class Sweter2WebJpaSecApplication {
 
     public static void main(String[] args) {
-        System.out.println("Start");
+
 
         SpringApplication.run(Sweter2WebJpaSecApplication.class, args);
 
